@@ -6,8 +6,7 @@ from amadeus import Client, ResponseError
 
 # Initialize the Amadeus client
 amadeus = Client(
-    client_id="H3iIn3ADdf0UxsLWeqVWhHu7XuISK5kZ",
-    client_secret="jQJIEIxIwWarKF4G"
+    client_id="
 )
 
 try:
