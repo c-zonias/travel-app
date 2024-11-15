@@ -1,8 +1,5 @@
 from amadeus import Client, ResponseError
 
-# Replace with your API key and secret
-#API_KEY = "H3iIn3ADdf0UxsLWeqVWhHu7XuISK5kZ"
-#API_SECRET = "jQJIEIxIwWarKF4G"
 
 # Initialize the Amadeus client
 amadeus = Client(
